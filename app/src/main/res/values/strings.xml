@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prakt14</string>
+    <string name="question1">Canberra is the capital of Australia</string>
+    <string name="correct_toast">Correct</string>>
+    <string name="incorrect_toast">Incorrect</string>>
+    <string name="batonTrue">True</string>
+    <string name="batonFalse">False</string>
+    <string name="q1">Does God exist?</string>
+    <string name="q2">Are you sure?</string>
+    <string name="q3">Do you agree?</string>
+    <string name="q4">You know someone\'s secret?</string>
+</resources>
